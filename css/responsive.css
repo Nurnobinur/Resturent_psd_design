@@ -1,0 +1,26 @@
+@media all and (max-width:991px){
+	.header-top-area-middle{
+		width:100%;
+		float:left;
+		overflow:hidden;
+		text-align:center;
+	}
+	.menubar ul{
+		float: none;
+	}
+	.header-top-area-left {
+		width: 50%;
+		text-align: center;
+	}
+	.header-area-top-icon{
+		width:50%;
+		overflow:hidden;
+		text-align:center;
+	}
+	.header-area-top-icon ul{
+		float:none;
+	}
+	.header-area-top-icon ul li i{
+		font-size:
+	}
+}

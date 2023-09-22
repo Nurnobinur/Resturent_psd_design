@@ -1,0 +1,153 @@
+@media all and (max-width: 1150px){
+	.header-top-area-left {
+		width: 100%;
+		float: none;
+		text-align: center;
+	}
+	.header-top-area-middle {
+		width: 82%;
+	}
+	.menubar ul {
+		float:none;
+	}
+	.header-area-top-icon {
+		width: 17%;
+	}
+	.header-area-top-icon ul {
+		float:none;
+	}
+	.header-left-area h1 {
+		font-size: 51px;
+		width: 80%;
+		margin: 0 auot;
+		margin-top:30px !important;
+	}
+}
+@media all and (max-width: 1150px){
+
+	.header-top-area-middle {
+		width:100%;
+	}
+	.menubar ul {
+		text-align:center;
+	}
+	.menubar ul li a{
+		display:inline-block;
+	}
+	.header-area-top-icon {
+		width:100%;
+	}
+	.header-area-top-icon ul {
+		text-align: center;
+	}
+	.header-area-top-icon ul li {
+		display: inline;
+	}
+	.header-area-top-icon ul li a {
+		display: inline-block;
+		font-size:35px !important;
+	}
+	.slider-area-left {
+		width: 80%;
+		float: none;
+		margin: 0 auto;
+	}
+	.slider-area-left p {
+		margin: 30px auto;
+	}
+	.slider-area-right {
+		width: 55%;
+		padding: 47px 0px;
+		margin: 0 auto;
+	}
+	.Appetisers-area {
+		width: 67%;
+		float: none;
+		margin: 0 auto;
+	}
+	.Starters-area {
+		width: 67%;
+		float: none;
+		margin: 0 auto;
+	}
+	.food-area-left {
+		width: 90%;
+		float: none;
+		margin: 0 auto;
+		margin-bottom:30px;
+	}
+	.food-area-left img {
+		height: 316px;
+	}
+	.About-Us-area p {
+		font-size: 13px;
+	}
+	.food-area-left img.pro{
+		margin-right:0px !important;
+	}
+	.food-area-left img {
+		width: 46%;
+	}
+}
+@media all and (max-width:830px){
+	.ingredients-area-right-top {
+		width: 70%;
+	}
+	.Guest-Reviews-area-top {
+		margin: 96px 60px;
+	}
+	.food-area-right {
+		width: 80%;
+	}
+	.About-Us-area {
+		width: 70%;
+		float: none;
+		margin: 0 auto;
+	}
+	.Opening-Hours-area {
+		width: 70%;
+		float: none;
+		margin: 0 auto;
+	}
+	.Opening-Hours-area img:nth-of-type(2) {
+		margin-top: 5px;
+		margin-bottom: 42px;
+	}
+	.Our-Location-area{
+		width: 70%;
+		float: none;
+		margin: 0 auto;
+		display: block;
+	}
+	.Our-Location-area ul li i {
+		margin-top:24px;
+	}
+}
+@media all and (max-width:740px){
+	.mobile-menu {
+		display:block;
+		
+	}
+	.menubar ul {
+		display:none;
+	}
+	.menubar ul li{
+		display:block;
+
+	}
+	.header-area-top-icon ul {
+		margin-top: 20px;
+	}
+	.menubar ul li a {
+		margin-top: 3px;
+	}
+	.header-area-top-icon ul li {
+		font-size: 34px;
+	}
+}
+@media all and (min-width:740px){
+	.menubar ul{
+		display:block !important;
+
+	}
+}
